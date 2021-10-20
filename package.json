@@ -1,0 +1,22 @@
+{
+  "name": "tingbakken122",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.30",
+    "@types/react-dom": "^17.0.10",
+    "@vitejs/plugin-react": "^1.0.5",
+    "sass": "^1.43.2",
+    "typescript": "^4.4.4",
+    "vite": "^2.6.10",
+    "vite-tsconfig-paths": "^3.3.17"
+  }
+}
